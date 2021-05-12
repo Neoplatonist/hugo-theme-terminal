@@ -71,6 +71,7 @@
   }
 
   pre {
+    min-height: 50px;
     margin-top: 0;
 
     &::first-line {
